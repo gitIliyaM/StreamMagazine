@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/common/PageLoop.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/data/models/CartItem.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/AddToCartView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/CartView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/CatalogView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/Catalogs/LapTopView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/Catalogs/PhoneView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/Catalogs/SmartPhoneView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/Catalogs/WatchView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/MainView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/view/OrderView.java" charset="windows-1251" />
+  </component>
+</project>
